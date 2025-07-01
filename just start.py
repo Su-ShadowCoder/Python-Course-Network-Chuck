@@ -30,14 +30,6 @@
 
 # print(f"I am Poppy. \n" * 100)
 
-
-
-# yooohooohoooooo , yookozoo.
-
-# episode 2 to become dangerous in python.
-
-# Let's build a robot barista
-
 # # name = "abdullah"
 # # print(name)
 
@@ -45,30 +37,68 @@
 # # print(name)
 
 
-print(f"Hello, Welcome to PythonCafee!!!")
-
-client_name = input(f"what is your name?\n")
-
-print(f"Hello {client_name}, thank you so much for coming in today!!")
+# yooohooohoooooo , yookozoo.
 
 
-# client_order = input(f"""{client_name} please choose what you would like to order from this menu:
-# Espresso        $4
-# Cafe Latte      $6
-# Americano       $6.5
-# Cappuccino      $5
-# Macchiato       $8\n""")
+# # episode 2 to become dangerous in python.
+
+# # Let's build a robot barista
+
+# print(f"Hello, Welcome to PythonCafee!!!")
+
+# client_name = input(f"what is your name?\n")
+
+# print(f"Hello {client_name}, thank you so much for coming in today!!")
 
 
-menu = """
-Espresso        $4
-Cafe Latte      $6
-Americano       $6.5
-Cappuccino      $5
-Macchiato       $8\n"""
-
-client_order = input(f"{client_name} please choose what you would like to order from this menu: {menu}")
+# # client_order = input(f"""{client_name} please choose what you would like to order from this menu:
+# # Espresso        $4
+# # Cafe Latte      $6
+# # Americano       $6.5
+# # Cappuccino      $5
+# # Macchiato       $8\n""")
 
 
-print(f"{client_order} is a excellent choice {client_name}, please take a seat while we are making your order.")
+# menu = """
+# Espresso        $8
+# Cafe Latte      $8
+# Americano       $8
+# Cappuccino      $8
+# Macchiato       $8\n"""
 
+# client_order = input(f"{client_name} please choose what you would like to order from this menu: {menu}")
+
+# Price_coffee = 8
+
+
+# ordr_amnt = input(f"{client_order} is a excellent choice {client_name}, 1 {client_order} is $8. \nHow many {client_order}'s would you like?\n")
+
+# # Episode 3
+
+# # ----------------------------------
+# # name = "suda"
+# # age = 31
+# # actual_age = 31.96
+
+# # print(name)
+# # print(age)
+
+# # print(type(name))
+# # print(type(age))
+# # print(type(actual_age))
+
+# # math = 5 ** 7 + 6 / 9 * 6 - 4
+
+# # results = age + actual_age + math
+
+# # print(results)
+# # print(type(results))
+
+# # -------------------------------
+# # ordr_amnt = int(ordr_amnt)
+
+# total_price = int(ordr_amnt) * Price_coffee
+
+# print(f"Sounds good {client_name}, we'll have your {ordr_amnt} {client_order}  ready for you in a moment. ")
+
+# print(f"That would be ${total_price} in total.\nWould u like to use card or cash to pay?")
