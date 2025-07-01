@@ -38,17 +38,18 @@
 
 # Let's build a robot barista
 
-print(f"Hello, Welcome to PythonCafee!!!")
-
-client_name = input(f"what is your name?\n")
-
-print(f"Hello {client_name}, thank you so much for coming in today!!")
-
 # # name = "abdullah"
 # # print(name)
 
 # # name = "IronMan"
 # # print(name)
+
+
+print(f"Hello, Welcome to PythonCafee!!!")
+
+client_name = input(f"what is your name?\n")
+
+print(f"Hello {client_name}, thank you so much for coming in today!!")
 
 
 # client_order = input(f"""{client_name} please choose what you would like to order from this menu:
@@ -70,3 +71,4 @@ client_order = input(f"{client_name} please choose what you would like to order 
 
 
 print(f"{client_order} is a excellent choice {client_name}, please take a seat while we are making your order.")
+
